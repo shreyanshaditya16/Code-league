@@ -1,0 +1,6 @@
+{
+  "name": "Code League - Interactive DSA Learning Platform",
+  "description": "Learn Algorithms. Visualize Logic. Master Code. Interactive Data Structures & Algorithms learning platform with animated visualizers, beginner-friendly lessons, and interactive challenges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
